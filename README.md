@@ -4,7 +4,7 @@ This repository contains the source code for the Full Stack Expenses Chart proje
 
 ## Description
 
-![Expenses Chart Screenshot](./src/images/screen1.png)
+![Expenses Chart Screenshot](./client/src/images/screen1.png)
 
 This was another Frontend Mentor challenge that I took upon myself to both improve my CSS acumen and get more experience with the Recharts React library.
 
