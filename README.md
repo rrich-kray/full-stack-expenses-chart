@@ -12,6 +12,8 @@ This is a full-stack version of my Expenses Chart project (linked below), featur
 
 Expenses Chart:
 
+https://github.com/rrich-kray/expenses-chart
+
 ## Credits
 
 Design belongs to Frontend Mentor:

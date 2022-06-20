@@ -1,6 +1,7 @@
 {
   "name": "expenses-chart-full-stack",
   "version": "1.0.0",
+  "homepage": "https://rrich-kray.github.io/full-stack-expenses-chart",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -8,13 +9,16 @@
     "develop": "concurrently \"cd server && npm run watch\" \"cd client && npm start\"",
     "install": "cd server && npm i && cd ../client && npm i",
     "seed": "cd server && npm run seed",
-    "build": "cd client && npm run build"
+    "build": "cd client && npm run build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
     "concurrently": "^7.2.1",
-    "cors": "^2.8.5"
+    "cors": "^2.8.5",
+    "gh-pages": "^4.0.0"
   }
 }
