@@ -17,5 +17,3 @@ Expenses Chart:
 Design belongs to Frontend Mentor:
 
 https://www.frontendmentor.io/
-
-https://github.com/rrich-kray/expenses-chart/blob/main/src/images/screen1.png?raw=true
